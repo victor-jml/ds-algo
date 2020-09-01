@@ -10,6 +10,7 @@ This repository will put some code on ds&algo.
 ### LinkedList
 1. reserveList(Easy) you can practice online : [LeetCode](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/)
 2. deleteNode(Easy) you can practice online : [LeetCode](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/)
+3. LRUCache(Medium) you can practice online : [LeetCode](https://leetcode-cn.com/problems/lru-cache/)
 
 ### BinaryTree
 1. buildTree(Medium) you can practice online : [LeetCode](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/)
