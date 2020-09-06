@@ -14,3 +14,4 @@ This repository will put some code on ds&algo.
 
 ### BinaryTree
 1. buildTree(Medium) you can practice online : [LeetCode](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/)
+2. inOrderTraversal(Medium) you can practice : (LeetCode)[https://leetcode-cn.com/problems/binary-tree-inorder-traversal/]
