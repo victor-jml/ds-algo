@@ -7,6 +7,7 @@ This repository will put some code on ds&algo.
 3. ClimbStairs(Easy) you can practice online: [LeetCode](https://leetcode-cn.com/problems/climbing-stairs/)
 4. MinimunTotal(Medium) you can practice online: [LeetCode](https://leetcode-cn.com/problems/triangle/)
 5. removeDuplicates(Easy) you can practice online: [LeetCode](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
+6. moveZeroes(Easy) you can practice online: [LeetCode](https://leetcode-cn.com/problems/move-zeroes/)
 
 ### LinkedList
 1. reserveList(Easy) you can practice online : [LeetCode](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/)
