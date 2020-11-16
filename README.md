@@ -19,4 +19,3 @@ This repository will put some code on ds&algo.
 2. inOrderTraversal(Medium) you can practice : (LeetCode)[https://leetcode-cn.com/problems/binary-tree-inorder-traversal/]
 
 
-
